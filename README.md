@@ -1,5 +1,7 @@
 # 3D Geometry
 
+<img src="./public/image1.png" alt="Shapes of cube,cuboid ext">
+
 A npm package that helps you to calculate properties of 3D shapes like volume, surface area, and curved surface area.
 
 ## Description

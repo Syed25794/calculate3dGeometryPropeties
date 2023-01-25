@@ -1,0 +1,20 @@
+{
+  "name": "3dgeometrypropeties",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syed25794/calculate3dGeometryPropeties.git"
+  },
+  "keywords": [],
+  "author": "Sayyad Gul Mohammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syed25794/calculate3dGeometryPropeties/issues"
+  },
+  "homepage": "https://github.com/Syed25794/calculate3dGeometryPropeties#readme"
+}

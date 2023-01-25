@@ -20,9 +20,9 @@ const shape = "cube";
 const property = "volume";
 const parameters = {side: 2};
 
-console.log(calculate3dShapesProperty(shape, property, parameters))
+console.log(calculate3dShapesProperty(shape, property, parameters));
 
-
+```
 
 ## Note
 

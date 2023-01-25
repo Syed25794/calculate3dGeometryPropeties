@@ -34,4 +34,4 @@ If you want to contribute to this package or have any suggestions or questions, 
 
 ## License
 
-This package is licensed under the MIT license. Want to read <a targe="_blank" href="https://opensource.org/licenses/MIT">Click On Me</a>
+This package is licensed under the MIT license. Want to read <a target="_blank" href="https://opensource.org/licenses/MIT">Click On Me</a>

@@ -2,6 +2,9 @@
 
 ![Shapes of cube,cuboid,prism]("https://i.ibb.co/qjvHpr9/image1.png")
 
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qjvHpr9/image1.png" alt="image1" border="0"></a>
+
 A npm package that helps you to calculate properties of 3D shapes like volume, surface area, and curved surface area.
 
 ## Description

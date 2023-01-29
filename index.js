@@ -176,7 +176,5 @@ function calculate3dShapesProperty(shape, property, parameters) {
   }
   return result;
 }
-let volume=calculate3dShapesProperty("cube","sa",{side:6});
-console.log(volume);
 
 module.exports=calculate3dShapesProperty;

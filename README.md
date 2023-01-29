@@ -1,9 +1,7 @@
 # 3D Geometry
 
-![Shapes of cube,cuboid,prism]("https://i.ibb.co/qjvHpr9/image1.png")
 
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/qjvHpr9/image1.png" alt="image1" border="0"></a>
+<img src="https://i.ibb.co/qjvHpr9/image1.png" alt="Cube,Cuboid,Prism" margin="center" height="75%" >
 
 A npm package that helps you to calculate properties of 3D shapes like volume, surface area, and curved surface area.
 

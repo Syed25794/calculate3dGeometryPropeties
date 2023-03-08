@@ -16,7 +16,24 @@ The `3D Geometry` package provides a simple and easy to use function that can ca
 
 ## Usage
 
+You can use this packages to calculate different properties of three dimensional shapes
+- Till now we have the following shapes only
+1.Cube
+2.Cuboid
+3.Sphere
+4.Cone
+5.Cylinder
+6.Torus
+7.Prism
+8.Pyramid
+
+- Till now we have the following properties only
+1.Volume - for volume property you have to give it as "volume"
+2.Curverd Surface Area - for this property use "csa" as the value of property
+3.Surface Area - for this property use "sa" as the value of the property
+
 ```javascript
+
 const { calculate3dShapesProperty } = require('3dgeometry');
 
 const shape = "cube";
@@ -64,30 +81,6 @@ const shape6 = "cylinder";
 const property6 = "surface_area";
 const parameters6 = {radius: 2, height: 3};
 console.log(calculate3dShapesProperty(shape6, property6, parameters6));
-
-// 7. Cube Diagonal Length
-const shape7 = "cube";
-const property7 = "diagonal_length";
-const parameters7 = {side: 2};
-console.log(calculate3dShapesProperty(shape7, property7, parameters7));
-
-// 8. Sphere Circumference
-const shape8 = "sphere";
-const property8 = "circumference";
-const parameters8 = {radius: 2};
-console.log(calculate3dShapesProperty(shape8, property8, parameters8)});
-
-// 9. Cylinder Height
-const shape9 = "cylinder";
-const property9 = "height";
-const parameters9 = {radius: 2, height: 3};
-console.log(calculate3dShapesProperty(shape9, property9, parameters9)});
-
-// 10. Sphere Diameter
-const shape10 = "sphere";
-const property10 = "diameter";
-const parameters10 = {radius: 2};
-console.log(calculate3dShapesProperty(shape10,property10,parameters10));
 
 ```
 
